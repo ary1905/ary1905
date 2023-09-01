@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Passionate Computer Science Student and Developer<br>🔭 I’m currently working on a Database Management Project <br>🌱 I’m currently learning React, NodeJS, Python, Machine Learning<br>💬 Ask me about C/C++, JavaScript<br>
+⚡ Passionate Computer Science Student and Developer<br>🔭 I’m currently working on a Task Management Project in React<br>🌱 I’m currently learning Computer Vision, Python, Machine Learning<br>💬 Ask me about C/C++, JavaScript<br>
 
 
 ## 🌐 Socials:
