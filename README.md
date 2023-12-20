@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Passionate Computer Science Student and Developer<br>🔭 I’m currently working on a Task Management Project in React<br>🌱 I’m currently learning Computer Vision, Python, Machine Learning<br>💬 Ask me about C/C++, JavaScript<br>
+⚡ Passionate Computer Science Student and Developer<br>🔭 I’m currently working on a Task Management Project in ReactJS<br>🌱 I’m currently learning FullStack Development, Cloud Computing<br>💬 Ask me about C/C++, JavaScript, React, AI-ML<br>
 
 
 ## 🌐 Socials:
