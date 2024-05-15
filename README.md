@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Passionate Computer Science Student and Developer<br>🔭 I’m currently working on a Task Management Project in ReactJS<br>🌱 I’m currently learning FullStack Development, Cloud Computing<br>💬 Ask me about C/C++, JavaScript, React, AI-ML<br>
+⚡ Passionate Computer Science Student and Developer<br>🔭 I’m currently working on a Game Development Project in Unity<br>🌱 I’m currently learning SAP Implementation and ERP<br>💬 Ask me about C/C++, JavaScript, React, AI-ML<br>
 
 
 ## 🌐 Socials:
